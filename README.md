@@ -1,5 +1,5 @@
 <h1>Non maintenu / Aucun support</h1>
-<1>unmaintained / No support</h1>
+<h1>unmaintained / No support</h1>
 <p>FR :</p>
 <p>Utiliser sv_tag_fr.lua pour la versions FR</p>
 <p>A placer dans /garrysmod/lua/autorun</p>
