@@ -20,3 +20,4 @@ if string.find(tostring(ply:SteamName()),tag) then
     end
 end)
 end
+hook.Add("PlayerInitialSpawn", "playervienderejoindre", playervienderejoindre)
